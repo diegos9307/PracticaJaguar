@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background: url(/Assets/jaguar-xe.jpg) no-repeat fixed;
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin: 0; 
+}
+.textContainer {
+    max-width: 600px;
+    height: 100%;
+    margin: 80px 60px 60px;
+    padding: 15px 15px 30px;
+    background-color: rgba(48, 48, 48, 0.815);
+    color: white;
+    border-radius: 10px;
+}   
+
+.titulo {
+    margin-top: 0;
+}
+
+
+.btn1 {
+    color: white;
+    font-weight: bold;
+    background-color: #DB3030;
+    text-decoration: none;
+    padding: 10px 30px;
+}
