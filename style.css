@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body {
-    background: url(/Assets/jaguar-xe.jpg) no-repeat fixed;
+    background: url(https://s3.amazonaws.com/makeitreal/cars/jaguar-xe.jpg) no-repeat fixed;
     background-size: cover;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
